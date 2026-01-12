@@ -23,13 +23,9 @@ tags: music, lofi
 都是 lofi 風格加上對應主題的白噪音，主題分別是：
 
 1. 校園：下課後開始蔓延的想像力
-    
 2. 烹飪：充滿微笑的春天廚房日常
-    
 3. 露營：森林裡圍坐營火旁的寧靜
-    
 4. 辦公：音樂誕生時，時間的韻律
-    
 
 👇連結在下方👇
 （官方的影片已下架，以下應該是其他人幫忙備份的）
@@ -37,7 +33,6 @@ tags: music, lofi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bYyOitnQKZMw2B9Q&amp;list=PLQTDK3BGDQUhqrTUY2N4RdR6yaYSXppgK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 其中我最喜歡的就是第 2 部「充滿微笑的春天廚房日常」。
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HRIgVpZOz8Q?si=UqcenSWB5pAgE2dB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

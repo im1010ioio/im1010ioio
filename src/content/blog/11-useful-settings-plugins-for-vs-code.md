@@ -55,7 +55,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ---
 
-##  套件
+## 套件
 
 ### **4.** [**indent-rainbow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
@@ -137,8 +137,8 @@ tags: vscode, vs-code, vscode-extensions
 這個套件使用後能夠把你的 class name 縮起來，畫面變得清爽許多！  
 預設是折疊起 class，好像 svg 也能折疊起來， 不過我還沒有試用過。
 
-> *後記：這有個致命缺點，在編輯 vue*`v-bind:class`*一直開開合合，其實有一點不便。*  
-> *如果你不常更改 class name 的話，推薦！但經常要變更的話就不推薦了。*
+> _後記：這有個致命缺點，在編輯 vue_`v-bind:class`_一直開開合合，其實有一點不便。_  
+> _如果你不常更改 class name 的話，推薦！但經常要變更的話就不推薦了。_
 
 和上一個套件一樣，`.cshtml` 要能夠運作的話， 要另外將 `aspnetcorerazor` 設定到支援的語言中。
 
@@ -158,9 +158,7 @@ tags: vscode, vs-code, vscode-extensions
 分享我之前看過的教學文給大家：
 
 1. [為 MAC 的 Terminal 上色 - 透過 iTerm 2 和 Oh My Zsh 高亮你的終端機](https://pjchender.dev/app/mac-terminal-iterm2/)
-    
 2. [在VSCode 裝個漂亮的 Terminal 介面- zsh + powerlevel10k](https://sasacode.wordpress.com/2021/06/18/%E5%9C%A8vscode-%E8%A3%9D%E5%80%8B%E6%BC%82%E4%BA%AE%E7%9A%84-terminal-%E4%BB%8B%E9%9D%A2-zsh-powerlevel10k/)
-    
 
 ---
 

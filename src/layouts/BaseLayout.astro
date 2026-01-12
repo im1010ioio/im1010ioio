@@ -23,16 +23,22 @@ import '@fontsource-variable/jetbrains-mono'
 			description={description || SITE_DESCRIPTION}
 		/>
 		<!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-121LYK9QZV"></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-121LYK9QZV"
+		></script>
 		<script is:inline>
-			if (!location.hostname.includes('localhost') && !location.hostname.includes('github')) {
-				window.dataLayer = window.dataLayer || [];
-				function gtag(){dataLayer.push(arguments);}
-				gtag('js', new Date());
-	
-				gtag('config', 'G-121LYK9QZV');
+			if (
+				!location.hostname.includes('localhost') &&
+				!location.hostname.includes('github')
+			) {
+				window.dataLayer = window.dataLayer || []
+				function gtag() {
+					dataLayer.push(arguments)
+				}
+				gtag('js', new Date())
+
+				gtag('config', 'G-121LYK9QZV')
 			} else {
-					console.log('Google Analytics is disabled on localhost.');
+				console.log('Google Analytics is disabled on localhost.')
 			}
 		</script>
 	</head>

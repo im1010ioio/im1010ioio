@@ -27,7 +27,6 @@ const {
 	remarkPluginFrontmatter,
 } = Astro.props
 
-
 import BaseLayout from './BaseLayout.astro'
 import { Image } from 'astro:assets'
 import { Icon } from 'astro-icon/components'
@@ -98,7 +97,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 								最後更新時間：{lastModified}
 							</p>
 						</div>
-						
+
 						{
 							blogImages[coverImagePath] && (
 								<>
@@ -121,7 +120,6 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 					>
 						<slot />
 					</div>
-
 				</div>
 			</div>
 		</article>

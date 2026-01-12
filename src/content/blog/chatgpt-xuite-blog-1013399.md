@@ -1,15 +1,14 @@
 ---
-title: "用 ChatGPT 部落格搬家：101上山走走 (Xuite 部落格)"
-seoTitle: "用 ChatGPT 部落格搬家：101上山走走 (Xuite 部落格)"
-description: "由於 Xuite 部落格即將於本月月底關站，所以我幫忙我爸爸將部落格「101上山走走」搬家。10 幾年、408 篇文章、400 萬瀏覽次數，隨著 Xuite 關閉，回憶就這樣不見的話，太可惜了。"
+title: '用 ChatGPT 部落格搬家：101上山走走 (Xuite 部落格)'
+seoTitle: '用 ChatGPT 部落格搬家：101上山走走 (Xuite 部落格)'
+description: '由於 Xuite 部落格即將於本月月底關站，所以我幫忙我爸爸將部落格「101上山走走」搬家。10 幾年、408 篇文章、400 萬瀏覽次數，隨著 Xuite 關閉，回憶就這樣不見的話，太可惜了。'
 pubDate: Thu Aug 24 2023 16:32:23 GMT+0000 (Coordinated Universal Time)
 cuid: cllpdtk7k000f09jw5sfefz8u
 slug: chatgpt-xuite-blog-1013399
-coverImageCredit: ""
+coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692891871945/852985cc-f0d9-44af-9faf-92e9d1be310b.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1692891913984/22187f6a-b1d0-4bc2-b9a1-4ffd8a021cf7.png
 tags: ai, blogging, chatgpt, vuepress
-
 ---
 
 由於 Xuite 部落格即將於本月月底關站，所以我幫忙我爸爸將部落格「[101上山走走](https://1013399.github.io/)」搬家。10 幾年、408 篇文章、400 萬瀏覽次數，隨著 Xuite 關閉，回憶就這樣不見的話，太可惜了。
@@ -45,15 +44,10 @@ tags: ai, blogging, chatgpt, vuepress
 因為我不太熟悉 JS，所以我請 ChatGPT 幫忙寫程式，過程大致上是：
 
 1. 先給他 3-5 篇的原始文字檔，請他找出規則，把 408 篇的文章區分開來，並且忽略留言的部分。
-    
 2. 幫我分別把每一篇的圖片下載下來，依據順序存到不同的序號資料夾裡。下載的時候，要間隔一段時間下載，不然一次太大量會被 Xuite 當成異常流量。（結果載了 7、8 個小時 🥲）
-    
 3. 把各篇文章內 HTML 轉換為 markdown 格式。
-    
 4. 因為 Xuite 的圖片會包著一層連結，請他去除連結。
-    
 5. 再分別存成 md 檔案，依序號加文章日期命名。
-    
 
 ### BUT！
 

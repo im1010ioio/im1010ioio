@@ -1,20 +1,18 @@
 ---
-title: "6 個步驟設定我的年度目標 - 免費 Notion 範本（模板）"
-description: "這個範本（模板）透過想像未來的葬禮，回推出你的長期展望與目標，並且拆分出今年內可實現的任務。一共有 6 個步驟幫助您設定明確的年度目標，同時反思生命的意義和方向，引導您發現生活的真正價值。"
+title: '6 個步驟設定我的年度目標 - 免費 Notion 範本（模板）'
+description: '這個範本（模板）透過想像未來的葬禮，回推出你的長期展望與目標，並且拆分出今年內可實現的任務。一共有 6 個步驟幫助您設定明確的年度目標，同時反思生命的意義和方向，引導您發現生活的真正價值。'
 pubDate: Fri Dec 27 2024 06:55:03 GMT+0000 (Coordinated Universal Time)
 cuid: cm56eecun001409mnhnyi3zaf
 slug: 6-steps-to-set-my-annual-goals-cht
-coverImageCredit: ""
+coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735281221799/7806c0a2-bec9-4cd7-9fe2-459fa23fbb95.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1735282257903/cfa4a145-53b8-4afc-bbf9-add56caf5f93.png
 tags: notion, notion-templates
-
 ---
 
 這個範本（模板）透過想像未來的葬禮，回推出你的長期展望與目標，並且拆分出今年內可實現的任務。
 
 一共有 6 個步驟幫助您設定明確的年度目標，同時反思生命的意義和方向，引導您發現生活的真正價值。
-
 
 > 💡 This template also has a English version; please head [this way](/polaris-lab/6-steps-to-set-my-annual-goals-en).
 
@@ -23,25 +21,19 @@ tags: notion, notion-templates
 ## **亮點特色**
 
 1. **六大步驟，層層推進：**  
-    從設定目標到行動計劃，範本提供簡單的指引，幫助你一步步實現年度目標。
-    
+   從設定目標到行動計劃，範本提供簡單的指引，幫助你一步步實現年度目標。
 2. **結合生命的哲學思考：**  
-    通過想像你的「未來葬禮」，以終為始，重新審視目前的選擇、優先事項與應該珍視的人們。
-    
+   通過想像你的「未來葬禮」，以終為始，重新審視目前的選擇、優先事項與應該珍視的人們。
 3. **讓長期、中期、短期目標清晰明瞭：**  
-    長至 10 年、1 年，短至明天，協助您由大願景拆分至小任務，讓計劃能夠落地執行。
-    
+   長至 10 年、1 年，短至明天，協助您由大願景拆分至小任務，讓計劃能夠落地執行。
 
 ---
 
 ## 這個範本適合的人
 
-* 對人生感到迷惘的人
-    
-* 想要對齊人生意義與目標的人
-    
-* 想要將抽象目標落地執行的人
-    
+- 對人生感到迷惘的人
+- 想要對齊人生意義與目標的人
+- 想要將抽象目標落地執行的人
 
 ---
 

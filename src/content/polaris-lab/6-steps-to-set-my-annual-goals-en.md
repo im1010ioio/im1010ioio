@@ -1,14 +1,13 @@
 ---
-title: "6 Steps to Set My Annual Goals - Free Notion Template"
-description: "This template helps you envision your future funeral to reverse-engineer your long-term outlook and goals, breaking them down into actionable tasks that can be accomplished within the year."
+title: '6 Steps to Set My Annual Goals - Free Notion Template'
+description: 'This template helps you envision your future funeral to reverse-engineer your long-term outlook and goals, breaking them down into actionable tasks that can be accomplished within the year.'
 pubDate: Fri Dec 27 2024 06:54:01 GMT+0000 (Coordinated Universal Time)
 cuid: cm56ed16o000m09l46jyyeekj
 slug: 6-steps-to-set-my-annual-goals-en
-coverImageCredit: ""
+coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735279651553/c0e986c0-c3f6-49aa-817c-5de830cb5de4.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1735282164546/62eb5e81-0405-4c0b-b448-a91be9f21ff7.png
 tags: notion, notion-templates
-
 ---
 
 This template helps you envision your future funeral to reverse-engineer your long-term outlook and goals, breaking them down into actionable tasks that can be accomplished within the year.
@@ -17,31 +16,24 @@ It consists of six steps designed to guide you in setting clear annual goals whi
 
 > 💡 這個範本也有中文版本，請往 [這邊](/polaris-lab/6-steps-to-set-my-annual-goals-cht) 走。
 
-
 ---
 
 ## 3 Key Features
 
 1. **Six-Step Process with Structured Guidance:**  
-    From goal-setting to actionable planning, the template provides a step-by-step framework to help you achieve your yearly goals.
-    
+   From goal-setting to actionable planning, the template provides a step-by-step framework to help you achieve your yearly goals.
 2. **Philosophical Life Reflection:**  
-    By imagining your “future funeral,” this approach encourages you to begin with the end in mind, reassessing your current choices, priorities, and the people you hold dear.
-    
+   By imagining your “future funeral,” this approach encourages you to begin with the end in mind, reassessing your current choices, priorities, and the people you hold dear.
 3. **Clarity Across Long-Term, Mid-Term, and Short-Term Goals:**  
-    Whether it’s a 10-year vision, a one-year plan, or tasks for tomorrow, this template helps you break down big aspirations into smaller, actionable steps for seamless execution.
-    
+   Whether it’s a 10-year vision, a one-year plan, or tasks for tomorrow, this template helps you break down big aspirations into smaller, actionable steps for seamless execution.
 
 ---
 
 ## Who This Template is For
 
-* Those feeling lost in life
-    
-* Individuals seeking to align their life purpose with their goals
-    
-* People who want to turn abstract aspirations into actionable plans
-    
+- Those feeling lost in life
+- Individuals seeking to align their life purpose with their goals
+- People who want to turn abstract aspirations into actionable plans
 
 ---
 
