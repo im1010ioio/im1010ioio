@@ -31,14 +31,13 @@ import '@fontsource-variable/jetbrains-mono'
 				!location.hostname.includes('github')
 			) {
 				window.dataLayer = window.dataLayer || []
+				// eslint-disable-next-line prefer-rest-params
 				function gtag() {
 					dataLayer.push(arguments)
 				}
 				gtag('js', new Date())
 
 				gtag('config', 'G-121LYK9QZV')
-			} else {
-				console.log('Google Analytics is disabled on localhost.')
 			}
 		</script>
 	</head>

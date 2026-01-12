@@ -7,9 +7,9 @@ import { getCollection } from 'astro:content'
 
 const allBlogPosts = await getCollection('blog')
 
-const posts = allBlogPosts
-	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-	.slice(0, 4)
+// const posts = allBlogPosts
+// 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+// 	.slice(0, 4)
 
 // 精選文章 - 手動指定要顯示的文章 slug
 const selectedPostSlugs = [
