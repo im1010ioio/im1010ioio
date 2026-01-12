@@ -1,0 +1,46 @@
+---
+import BaseHead from '../components/BaseHead.astro'
+import Navbar from '../components/Navbar.astro'
+import Footer from '../components/Footer.astro'
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts'
+
+interface Props {
+	title?: string
+	description?: string
+}
+
+const { title, description } = Astro.props
+
+import '@fontsource-variable/inter'
+import '@fontsource-variable/jetbrains-mono'
+---
+
+<!doctype html>
+<html lang="zh-TW">
+	<head>
+		<BaseHead
+			title={title || SITE_TITLE}
+			description={description || SITE_DESCRIPTION}
+		/>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-121LYK9QZV"></script>
+		<script>
+			if (!location.hostname.includes('localhost') && !location.hostname.includes('github')) {
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+	
+				gtag('config', 'G-121LYK9QZV');
+			} else {
+					console.log('Google Analytics is disabled on localhost.');
+			}
+		</script>
+	</head>
+	<body
+		class="text-foreground bg-background dark:text-foreground-dark dark:bg-background-dark transition-colors"
+	>
+		<Navbar title={SITE_TITLE} />
+		<slot />
+		<Footer />
+	</body>
+</html>

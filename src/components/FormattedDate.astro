@@ -1,0 +1,12 @@
+---
+interface Props {
+	date: Date
+}
+
+const { date } = Astro.props
+import dayjs from 'dayjs'
+---
+
+<time datetime={date.toISOString()}>
+	{dayjs(date).format('YYYY-MM-DD')}
+</time>

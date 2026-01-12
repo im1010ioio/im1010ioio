@@ -1,0 +1,170 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { SITE_BASE, SocialLinks } from '../consts'
+import { Icon } from 'astro-icon/components'
+import BlogCard from '../components/BlogCard.astro'
+import { getCollection } from 'astro:content'
+
+const allBlogPosts = await getCollection('blog')
+
+const posts = allBlogPosts
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 4)
+
+// 精選文章 - 手動指定要顯示的文章 slug
+const selectedPostSlugs = ['free-application-for-marriage', '11-useful-settings-plugins-for-vs-code', 'chatgpt-xuite-blog-1013399', 'game-win-rate']
+const selectedPosts = selectedPostSlugs
+	.map(slug => allBlogPosts.find(post => post.slug === slug))
+	.filter((post) => post !== undefined)
+
+const notionTemps = (await getCollection('polaris-lab'))
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 4)
+---
+
+<BaseLayout>
+	<main
+		class="app-container flex flex-col gap-12 justify-center py-36 md:py-48 pt-44 md:pt-56 relative"
+	>
+		<div class="flex flex-col-reverse md:flex-row md:items-center">
+			<div>
+				<p class="block text-xl sm:text-3xl opacity-70 mt-9 mb-4">嗨！我是⋯⋯</p>
+				<h1 class="text-6xl sm:text-8xl font-bold leading-none tracking-widest">陳依琳</h1>
+				<p class="block text-l sm:text-2xl opacity-70 mt-6 mb-4">
+					im1010ioio = I'm YI LIN, my input & output
+				</p>
+			</div>
+			<div class="md:ms-auto">
+				<img class="inline-block w-36 h-36 md:h-56 md:w-56 lg:h-80 lg:w-80 rounded-full ring-2 ring-white" src="avatar.png" alt="陳依琳 im1010ioio 前端工程師 / Notion 創作者 / 首席設計師 @HealthyPlate" />
+			</div>
+		</div>
+		<div>
+			<p class="text-xl sm:text-2xl max-w-2xl leading-normal mb-4">
+				前端工程師 / Notion 創作者 / 首席設計師 
+				<a class="underline hover:text-primary dark:hover:text-primary-dark" href="https://healthyplateapp.com/" target="_blank" rel="noopener noreferrer">@HealthyPlate</a>
+			</p>
+			<div class="flex flex-wrap gap-4 sm:gap-8">
+				{
+					SocialLinks.map((link) => (
+						<a
+							class="sm:text-xl text-primary dark:text-primary-dark underline hover:underline underline-offset-4"
+							href={link.url}
+							target="_blank"
+						>
+							{link.name}
+						</a>
+					))
+				}
+			</div>
+		</div>
+	</main>
+
+
+	<!-- Super Easy CSS Section -->
+	<section class="app-container mb-30">
+		<h2 class="section-title mb-4">CSS 教學文章</h2>
+		<a
+			href="https://im1010ioio.hashnode.dev/super-easy-css-contents" target="_blank"
+			class="flex flex-col lg:flex-row gap-8 pb-8 h-full group transition-colors"
+		>
+			<img class="w-full lg:w-100 object-cover rounded-xl aspect-video" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1764752687330/d9993fd8-3b1f-4f8c-9474-8e0bf44cb246.png" alt="超級簡單寫 CSS (Super Easy CSS)">
+			<div class="flex flex-col gap-4">
+				<h4
+					class="text-2xl font-semibold group-hover:text-primary dark:group-hover:text-primary-dark group-hover:underline transition-colors"
+				>
+					超級簡單寫 CSS (Super Easy CSS)
+				</h4>
+				<p class="opacity-80">
+					這是一系列 CSS 與網頁前端相關知識的教學文章，主要寫於 2023 - 2025 年的 iThome 鐵人賽。
+				</p>
+				<p>
+					<span class="opacity-80">與其他教學文章不同之處是：這系列文章大部分著重於</span>
+					<b class="font-bold">圖解說明</b>
+					<span class="opacity-80">、</span>
+					<b class="font-bold">實務經驗</b>
+					<b class="font-bold">DEMO 實作</b>
+					<span class="opacity-80">與</span>
+					<span class="opacity-80">，因為我知道資訊領域許多概念非常抽象，如果能用比喻或圖解，可以讓這些知識更容易理解；而實務經驗與 DEMO 實作才能讓技術落地，讓學習的人清楚自己學習與使用語法的方向。（部落格搬家中）</span>
+				</p>
+				<div class="btn-secondary">
+					查看 90+ 篇文章
+					<Icon size={20} name="mdi:arrow-right" />
+				</div>
+			</div>
+		</a>
+	</section>
+
+	<!-- 精選文章 Section -->
+	<section class="app-container mb-36">
+		<h2 class="section-title">精選文章</h2>
+		<div class="posts-grid-container">
+			{selectedPosts.map((post) => <BlogCard post={post} />)}
+		</div>
+		<a class="btn-secondary" href="/blog">
+			查看全部
+			<Icon size={20} name="mdi:arrow-right" />
+		</a>
+	</section>
+
+	<!-- Notion 模板 Posts Section -->
+	<section class="app-container">
+		<h2 class="section-title">Notion 模板</h2>
+		<div class="posts-grid-container">
+			{notionTemps.map((post) => <BlogCard post={post} />)}
+		</div>
+		<a class="btn-secondary" href="/polaris-lab">
+			查看全部
+			<Icon size={20} name="mdi:arrow-right" />
+		</a>
+	</section>
+
+	<!-- Recent Posts Section -->
+	<!-- <section class="app-container">
+		<h2 class="section-title">最新文章</h2>
+		<div class="posts-grid-container">
+			{posts.map((post) => <BlogCard post={post} />)}
+		</div>
+		<a class="btn-secondary" href="/blog">
+			查看全部
+			<Icon size={20} name="mdi:arrow-right" />
+		</a>
+	</section> -->
+
+
+
+	<!-- Recent Posts Section -->
+	<section class="app-container py-42 grid lg:grid-cols-2 gap-28 lg:gap-10">
+		<div class="space-y-6">
+			<h2 class="section-title">關於我</h2>
+			<p class="text-lg max-w-xl pb-4">
+				擁有 {new Date().getFullYear() - 2016} 年數位設計與網頁前端開發的跨領域經驗，具備全端整合的視野。
+				可獨立完成視覺、介面設計至前端 HTML、CSS 切版，與部分 JS 程式撰寫。
+				善於轉換抽象概念於具體，將概念使用視覺化方式呈現，使人易於理解。
+			</p>
+			<a class="btn-secondary" href="/about">
+				瞭解更多
+				<Icon size={20} name="mdi:arrow-right" />
+			</a>
+		</div>
+		<!-- <div class="space-y-6">
+			<h2 class="section-title">Get in touch</h2>
+			<p class="text-lg max-w-xl">
+				Use the buttons below for my resume & email.
+			</p>
+			<div class="flex flex-wrap mt-auto space-x-4">
+				<a
+					class="btn-primary"
+					href="mailto:example@email.com"
+					download
+					target="_blank"
+					>與我聯絡
+					<Icon height={20} name="mdi:email" />
+				</a>
+				<a class="btn-secondary" href="https://example.com" target="_blank"
+					>下載履歷
+					<Icon height={20} name="mdi:arrow-collapse-down" />
+				</a>
+			</div>
+		</div> -->
+	</section>
+</BaseLayout>

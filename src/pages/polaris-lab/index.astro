@@ -1,0 +1,40 @@
+---
+import { getCollection } from 'astro:content'
+import BlogCard from '../../components/BlogCard.astro'
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import { Icon } from 'astro-icon/components'
+
+const posts = (await getCollection('polaris-lab')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+)
+---
+
+<BaseLayout>
+	<main class="app-container pt-36">
+		<h1 class="text-6xl pb-8 font-bold">Polaris Lab 北極星實驗室</h1>
+		<p class="md:w-2/3 text-lg leading-[2rem] mb-4">
+			歡迎來到 Polaris Lab！<br>這裡將分享我設計的 Notion 模版和 LINE 貼圖，協助你邁向目標，並在生活中實踐正念。✨
+		</p>
+		<div class="flex flex-wrap gap-8">
+			<a class="btn-secondary" href="https://www.notion.com/@polarislab" target="_blank">
+				Notion 商店
+				<Icon size={20} name="mdi:arrow-right" />
+			</a>
+			<a class="btn-secondary" href="https://store.line.me/emojishop/author/1842109" target="_blank">
+				Line 貼圖商店
+				<Icon size={20} name="mdi:arrow-right" />
+			</a>
+		</div>
+	</main>
+	<section class="app-container py-12">
+		<ul class="posts-grid-container">
+			{
+				posts.map((post) => (
+					<li>
+						<BlogCard post={post} />
+					</li>
+				))
+			}
+		</ul>
+	</section>
+</BaseLayout>
