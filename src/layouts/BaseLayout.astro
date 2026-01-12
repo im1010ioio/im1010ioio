@@ -31,10 +31,8 @@ import '@fontsource-variable/jetbrains-mono'
 				!location.hostname.includes('github')
 			) {
 				window.dataLayer = window.dataLayer || []
-				// eslint-disable-next-line prefer-rest-params
-				function gtag() {
-					dataLayer.push(arguments)
-				}
+				
+				function gtag() { dataLayer.push(arguments) } // eslint-disable-line prefer-rest-params
 				gtag('js', new Date())
 
 				gtag('config', 'G-121LYK9QZV')
