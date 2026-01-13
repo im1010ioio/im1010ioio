@@ -37,9 +37,11 @@ const blogImages = import.meta.glob<{ default: ImageMetadata }>(
 
 const coverImagePath = `/src/assets/blogimages/${collection}/${slug}/cover.png`
 
-const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
-	.utc()
-	.format('YYYY-MM-DD')
+const lastModified = remarkPluginFrontmatter?.lastModified 
+	? dayjs(remarkPluginFrontmatter.lastModified)
+		.utc()
+		.format('YYYY-MM-DD')
+	: ''
 ---
 
 <BaseLayout title={title} description={description}>
@@ -60,13 +62,17 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 						</h1>
 						<div class="text-lg flex items-center gap-4 flex-wrap py-8">
 							<!-- Publish date -->
-							<span>
-								<Icon
-									name="mdi:calendar-month-outline"
-									class="inline-block text-primary dark:text-primary-dark"
-								/>
-								<FormattedDate date={pubDate} />
-							</span>
+							{
+								pubDate && (
+									<span>
+										<Icon
+											name="mdi:calendar-month-outline"
+											class="inline-block text-primary dark:text-primary-dark"
+										/>
+										<FormattedDate date={pubDate} />
+									</span>
+								)
+							}
 
 							<!-- Updated date -->
 							{
@@ -82,21 +88,26 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 							}
 
 							<!-- Read time -->
-							<span>
-								<Icon
-									name="mdi:clock-time-four-outline"
-									class="inline-block text-primary dark:text-primary-dark"
-								/>
-								{remarkPluginFrontmatter.minutesRead}
-							</span>
-						</div>
-
-						<!-- Suggest edit -->
-						<div class="flex justify-between mb-16 gap-4 flex-wrap italic">
-							<p class="opacity-70">
-								最後更新時間：{lastModified}
-							</p>
-						</div>
+						{
+							remarkPluginFrontmatter?.minutesRead && (
+								<span>
+									<Icon
+										name="mdi:clock-time-four-outline"
+										class="inline-block text-primary dark:text-primary-dark"
+									/>
+									{remarkPluginFrontmatter.minutesRead}
+								</span>
+							)
+						}
+						{
+							lastModified && (
+								<div class="flex justify-between mb-16 gap-4 flex-wrap italic">
+									<p class="opacity-70">
+										最後更新時間：{lastModified}
+									</p>
+								</div>
+							)
+						}
 
 						{
 							blogImages[coverImagePath] && (

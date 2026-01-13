@@ -3,7 +3,7 @@
 
 export const SITE_TITLE = '陳依琳 YI-LIN CHEN'
 export const SITE_DESCRIPTION =
-	'A simple theme for personal blog sites, created for Astro framework'
+	'前端工程師 / Notion 創作者 / 首席設計師 @HealthyPlate 擁有 10 年數位設計與網頁前端開發的跨領域經驗，具備全端整合的視野。 可獨立完成視覺、介面設計至前端 HTML、CSS 切版，與部分 JS 程式撰寫。 善於轉換抽象概念於具體，將概念使用視覺化方式呈現，使人易於理解。'
 
 // If you deploy to a subdirectory, set the `WEBSITE_BASE` here.
 // e.g. '/blog' if you are deploying to example.com/blog

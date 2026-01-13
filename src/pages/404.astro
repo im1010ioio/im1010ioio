@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro'
 import { SITE_BASE } from '../consts'
 ---
 
-<BaseLayout>
+<BaseLayout title="404 找不到網頁 - 陳依琳 YI-LIN CHEN" description="找不到網頁連結。可能是因為網址錯誤或頁面已被移除。">
 	<div>
 		<main
 			class="app-container h-[95vh] flex flex-col gap-6 justify-center py-56 items-center"
@@ -14,7 +14,7 @@ import { SITE_BASE } from '../consts'
 				404
 			</h1>
 			<p class="text-xl text-center max-w-[480px]">
-				找不到連結。可能是因為網址錯誤或頁面已被移除。
+				找不到網頁連結。可能是因為網址錯誤或頁面已被移除。
 			</p>
 			<a class="btn-primary" href={SITE_BASE}>回首頁</a>
 		</main>
