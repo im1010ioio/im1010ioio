@@ -2,7 +2,7 @@
 title: '為什麼這個帳號叫作北極星實驗室呢？'
 description: '古代在航海時，都是依據北極星在前進，於是名稱就從「小鬧劇」成為了「北極星」。並且，我想創作的 Notion 模板，其中一個期望是要在日常中落實正念的概念（因為目前市面上沒有太多正念相關的 Notion 模板），所以有發光的事物作為代表好像也挺不錯的。'
 pubDate: 2024-12-25
-cuid: 
+cuid:
 slug: what-is-polaris-lab
 coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735281221799/7806c0a2-bec9-4cd7-9fe2-459fa23fbb95.png
@@ -12,7 +12,7 @@ tags: notion, notion-templates
 
 ## 中文版
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736491521858/70a6e227-1103-4fc8-95e1-bcf9f11072c6.png)
+![](../../assets/blogimages/polaris-lab/what-is-polaris-lab/1.png)
 
 ### 🌟 為什麼這個帳號叫作北極星實驗室呢？
 
@@ -70,7 +70,7 @@ Ruowen Huang 說過：
 
 🧋 [買杯珍珠奶茶給我](https://im1010ioio.bobaboba.me/) 表達對我的支持，並且幫助我創造更多精彩的創作。
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754623765061/380aed68-c026-41f6-990e-cbeb63d6936d.png)](https://im1010ioio.bobaboba.me/)
+![小額贊助 YI-LIN (Eva) Chen](../../assets/blogimages/sponsor.webp)
 
 你們的每個鼓勵對我來說都非常重要。謝謝你！🥰
 
@@ -78,17 +78,17 @@ Ruowen Huang 說過：
 
 ## English Version
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736491521858/70a6e227-1103-4fc8-95e1-bcf9f11072c6.png)
+![](../../assets/blogimages/polaris-lab/what-is-polaris-lab/1.png)
 
 ### 🌟 **Why is this account called Polaris Lab?**
 
 Originally, it was named "Little Farce Lab," which was the creator name I used when I first launched my LINE stickers.  
 I chose the term "Lab" because I wanted to experiment with various possibilities for LINE stickers, such as quickly creating text-only stickers or using stickers to create scheduling charts.  
-As for "Little Farce," it comes from [the song *Little Farce* by Glory](https://youtu.be/PNBl3-1USHo?si=0Qr-3McdRVhxPxBD):
+As for "Little Farce," it comes from [the song _Little Farce_ by Glory](https://youtu.be/PNBl3-1USHo?si=0Qr-3McdRVhxPxBD):
 
-> *"My life is full of endless little farces.*  
-> *No great villains or irresistible disasters.*  
-> *Just me and the group of people around me."*
+> _"My life is full of endless little farces._  
+> _No great villains or irresistible disasters._  
+> _Just me and the group of people around me."_
 
 At first, I wanted to convey a sense of being close to the user's daily life, highlighting the small joys and clever details of everyday moments.
 
@@ -107,7 +107,7 @@ Additionally, one of my goals in creating Notion templates is to incorporate min
 
 Ruowen Huang once said:
 
-> *"The best spiritual practice is living your life well."*
+> _"The best spiritual practice is living your life well."_
 
 This has become the core philosophy of Polaris Lab—encouraging self-awareness in daily life, find your north star, making sure each step aligns with one's desired path, and bringing a little joy and creativity into the everyday.
 
@@ -120,9 +120,9 @@ The design and planning are all very casual (I’m a textbook example of a "P" M
 That said, I do understand that sometimes, things that come with a price tag are often more valued and appreciated by people.  
 But since I’m not aiming for profit or seeking anything in return, it’s all about my passion and well-being, so I’m fine with it!
 
-With this in mind, let’s test the idea proposed in 21 Days of *Abundance Meditation Challenge*:
+With this in mind, let’s test the idea proposed in 21 Days of _Abundance Meditation Challenge_:
 
-> *"When you share your talents and gifts with the world, you invite abundance."*
+> _"When you share your talents and gifts with the world, you invite abundance."_
 
 Let’s experiment together!
 
@@ -132,6 +132,6 @@ Let’s experiment together!
 
 🧋 [Buy me a Boba Tea](https://im1010ioio.bobaboba.me/) to show your support and help me create more amazing resources.
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754623765061/380aed68-c026-41f6-990e-cbeb63d6936d.png)](https://im1010ioio.bobaboba.me/)
+![小額贊助 YI-LIN (Eva) Chen](../../assets/blogimages/sponsor.webp)
 
 Your encouragement means the world to me. Thank you! 🥰

@@ -26,19 +26,21 @@ tags: vscode, vs-code, vscode-extensions
 
 ## 主題
 
-### **1.** [**Glacier Theme**](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-glacier)
+### **1.** [VS Code 色彩主題 Glacier Theme](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-glacier)
 
-![VS Code 主題 Glacier Theme](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258552493/9b9fe9d0-ec53-499e-b9aa-0083bd6e20b1.png)
+![VS Code 主題 Glacier Theme](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/1.png)
 
 對比度高，又不會刺眼，我滿喜歡的。
+
+後來才知道設計這個樣式的人—— [Daniel Imms](https://www.growingwiththeweb.com/)，就是 VSCode 的開發人員之一。
 
 ---
 
 ### **2.** [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-![VS Code icon 主題 Material Icon Theme](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258597117/c7be2ebe-c24b-4d83-99c3-1db10cd84f18.png)
+![VS Code icon 主題 Material Icon Theme](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/2-1.webp)
 
-![VS Code icon 主題 Material Icon Theme](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258633866/f0bd403b-9ca1-47b3-b8e0-af39c3912978.png)
+![VS Code icon 主題 Material Icon Theme](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/2-2.webp)
 
 圖案很多種，資料夾也有，能想到的幾乎都有。  
 而且每個對比度也夠高，也好看，我很喜歡。
@@ -49,7 +51,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **3.** [**Source Code Pro**](https://github.com/adobe-fonts/source-code-pro)
 
-![Coding font 寫程式字體推薦 Source Code Pro](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258659592/ba301c0b-a2ca-4ddf-aa32-e15330b5ab43.png)
+![Coding font 寫程式字體推薦 Source Code Pro](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/3.webp)
 
 是 Adobe 開發的開源等寬字體。 我覺得簡單好看，Regular 的粗細適中。
 
@@ -59,7 +61,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **4.** [**indent-rainbow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
-![VS code 套件 indent-rainbow](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258710713/2ad94c41-0cf1-454c-ba83-4629ab51193c.png)
+![VS code 套件 indent-rainbow](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/4.webp)
 
 有時候 code 很長的時候（尤其是 Html），真的看得非常眼花，  
 這個套件能幫助你把縮排變成彩虹，幫助非常大！
@@ -68,8 +70,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **5.** [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
-![VS Code 套件推薦 Better Comments](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258766352/506680cc-7eeb-481e-b7e3-4725fec0b5de.png)
-
+![VS Code 套件推薦 Better Comments](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/5.webp)
 針對常見的註解寫法，有不同顏色標示， 還能透過設定檔設定更多的分類。  
 也滿好用的。
 
@@ -77,7 +78,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **6.** [**TODO Highlight**](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
-![VS code 套件推薦 TODO Highlight](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258799812/9309ddfb-1047-41a6-bf56-4150e05dfa32.jpeg)
+![VS code 套件推薦 TODO Highlight](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/6.webp)
 
 針對常見的註解寫法，會變成色塊的方式顯示。  
 不過如果和 Better Comments 混用， TODO 會變成橘色字橘色背景，反而不明顯。  
@@ -87,7 +88,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **7.** [**Todo Tree**](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
-![VS code 套件推薦 Todo Tree](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258841786/ce4334d0-9be6-4b2c-b935-b9d8b11d14bf.png)
+![VS code 套件推薦 Todo Tree](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/7.webp)
 
 當 TODO 註解散落在各個檔案中，只能使用全域搜尋一個個找嗎？  
 不，有了 Todo Tree 後，它會幫你按照資料夾分類，列出來。  
@@ -97,12 +98,12 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **8.** [**Color Highlight**](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
-![VS code 套件推薦 Color Highlight](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258874936/91a937a2-e292-4ddf-a1c0-ac300f0f57d2.png)
+![VS code 套件推薦 Color Highlight](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/8.webp)
 
 使用後 CSS 中的顏色會直接顯示為該顏色的色塊，滿直觀的。  
 定義為 SCSS 變數後也會顯示顏色，推！
 
-![VS code 套件推薦 Color Highlight](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258907811/b4d044cb-5fa8-47b5-988f-22e7d8e13dc4.jpeg)
+![VS code 套件推薦 Color Highlight](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/8-2.webp)
 
 點擊前方的小色塊還能直接改顏色，只不過我通常不會這麼用。
 
@@ -110,7 +111,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **9.** [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
-![VS code 套件推薦 Code Spell Checker](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258929588/e1699342-2235-4276-a849-ed753467449a.png)
+![VS code 套件推薦 Code Spell Checker](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/9.webp)
 
 有了這個套件後，就不用擔心打字時手殘命名拼錯字， 可以避免掉因錯字而找不到該變數或 function，然後 debug 困難的情況。
 
@@ -122,7 +123,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **10.** [**Chinese Lorem**](https://marketplace.visualstudio.com/items?itemName=KevinYang.ctlorem)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692930627963/da8299d1-4450-48f5-9722-632fe7574d02.png)
+![VS code 套件推薦 Chinese Lorem](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/10.png)
 
 在切版時有的時候需要假字先填充內容，接近完成時的樣貌。VsCode 內建有英文的 lorem，而這個套件可以產生中文版的假字，在 HTML 的格式內，輸入 `ctlorem` 按下 `tab` 或是 `enter` 即可產生 128 個字的中文假文。
 
@@ -132,7 +133,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **11.** [**Inline fold**](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold)
 
-![VS code 套件推薦 Inline fold](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258977435/5390cc1d-a3ac-408f-8af9-2dd9d958bc35.jpeg)
+![VS code 套件推薦 Inline fold](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/11.webp)
 
 這個套件使用後能夠把你的 class name 縮起來，畫面變得清爽許多！  
 預設是折疊起 class，好像 svg 也能折疊起來， 不過我還沒有試用過。
@@ -150,7 +151,7 @@ tags: vscode, vs-code, vscode-extensions
 
 另外，我是使用 Mac， 我有把 VS Code 的 Terminal 改成 iTerm APP。
 
-![VS code 套用 Mac iTerm Terminal 介面設定](https://cdn.hashnode.com/res/hashnode/image/upload/v1683259027374/abd168e5-e36e-499e-86b7-fe611ccddf15.png)
+![VS code 套用 Mac iTerm Terminal 介面設定](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/12.webp)
 
 而我的 iTerm 有改過樣式，  
 所以 VS Code 的 Terminal 也一起有客製的樣式啦！(開心)

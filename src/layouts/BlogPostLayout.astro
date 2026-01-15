@@ -37,10 +37,8 @@ const blogImages = import.meta.glob<{ default: ImageMetadata }>(
 
 const coverImagePath = `/src/assets/blogimages/${collection}/${slug}/cover.png`
 
-const lastModified = remarkPluginFrontmatter?.lastModified 
-	? dayjs(remarkPluginFrontmatter.lastModified)
-		.utc()
-		.format('YYYY-MM-DD')
+const lastModified = remarkPluginFrontmatter?.lastModified
+	? dayjs(remarkPluginFrontmatter.lastModified).utc().format('YYYY-MM-DD')
 	: ''
 ---
 
@@ -88,49 +86,48 @@ const lastModified = remarkPluginFrontmatter?.lastModified
 							}
 
 							<!-- Read time -->
-						{
-							remarkPluginFrontmatter?.minutesRead && (
-								<span>
-									<Icon
-										name="mdi:clock-time-four-outline"
-										class="inline-block text-primary dark:text-primary-dark"
-									/>
-									{remarkPluginFrontmatter.minutesRead}
-								</span>
-							)
-						}
-						{
-							lastModified && (
-								<div class="flex justify-between mb-16 gap-4 flex-wrap italic">
-									<p class="opacity-70">
-										最後更新時間：{lastModified}
-									</p>
-								</div>
-							)
-						}
+							{
+								remarkPluginFrontmatter?.minutesRead && (
+									<span>
+										<Icon
+											name="mdi:clock-time-four-outline"
+											class="inline-block text-primary dark:text-primary-dark"
+										/>
+										{remarkPluginFrontmatter.minutesRead}
+									</span>
+								)
+							}
 
-						{
-							blogImages[coverImagePath] && (
-								<>
-									<Image
-										src={blogImages[coverImagePath]()}
-										alt={title}
-										class="rounded-lg mb-8"
-									/>
-									{coverImageCredit && (
-										<p class="mt-2 mb-8 opacity-50 italic text-sm">
-											Image Credit: {coverImageCredit}
-										</p>
-									)}
-								</>
-							)
-						}
+							{
+								blogImages[coverImagePath] && (
+									<>
+										<Image
+											src={blogImages[coverImagePath]()}
+											alt={title}
+											class="rounded-lg mb-8"
+										/>
+										{coverImageCredit && (
+											<p class="mt-2 mb-8 opacity-50 italic text-sm">
+												Image Credit: {coverImageCredit}
+											</p>
+										)}
+									</>
+								)
+							}
+						</div>
+						<div
+							class="prose prose-neutral prose-lg md:prose-xl dark:prose-invert prose-img:rounded-xl prose-figure:text-center prose-img:mx-auto"
+						>
+							<slot />
+						</div>
 					</div>
-					<div
-						class="prose prose-neutral prose-lg md:prose-xl dark:prose-invert prose-img:rounded-xl prose-figure:text-center prose-img:mx-auto"
-					>
-						<slot />
-					</div>
+					{
+						lastModified && (
+							<div class="flex justify-between mt-10 mb-16 gap-4 flex-wrap italic">
+								<p class="opacity-70">最後更新時間：{lastModified}</p>
+							</div>
+						)
+					}
 				</div>
 			</div>
 		</article>
