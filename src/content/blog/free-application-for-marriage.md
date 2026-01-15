@@ -19,7 +19,7 @@ tags: free, download, marriage
 
 最近聽到一個概念：「當你和世界分享你的天賦與才華，就能迎接豐盛 ( abundance )」，所以我想與你們分享當初的這份紀念，給需要的人。
 
-![結婚書約 免費下載（內含中英對照、同婚版本）](https://cdn.hashnode.com/res/hashnode/image/upload/v1682563663402/64e1510f-2c34-427f-a8c6-59d5561562f9.png)
+![結婚書約 免費下載（內含中英對照、同婚版本）](../../assets/blogimages/blog/free-application-for-marriage/1.png)
 
 以上是模擬印在紙上並放在框裡的樣子。
 
@@ -50,7 +50,7 @@ tags: free, download, marriage
 
 進到 Google 雲端檔案連結後，點擊右上角下載圖示，如下圖所示：
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716349231959/7ce3d530-4f1d-47a8-83f8-72e0f0787a57.png)
+![](../../assets/blogimages/blog/free-application-for-marriage/2.webp)
 
 > 如果遇到無法解壓縮的狀況，請試試看使用 [7-Zip](https://7-zip.org/) 等解壓縮軟體解壓縮，若再不行，請聯繫我，我會調整分享的方式。
 >
@@ -72,7 +72,7 @@ tags: free, download, marriage
 
 ---
 
-![Photo by James Bold on Unsplash](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564040479/2d8711d9-9bdd-472c-8c29-74cc38aa2bb6.jpeg)
+![Photo by James Bold on Unsplash](../../assets/blogimages/blog/free-application-for-marriage/3.webp)
 
 另外，結婚登記的小提醒：
 
@@ -110,7 +110,7 @@ tags: free, download, marriage
 或者是，  
 送杯珍奶鼓勵我 → [🧋https://im1010ioio.bobaboba.me/](https://im1010ioio.bobaboba.me/)
 
-![小額贊助 Eva Chen](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564435616/c15640fc-6cee-4c33-a898-9cd6820f165a.png)
+![小額贊助 YI-LIN (Eva) Chen](../../assets/blogimages/sponsor.webp)
 
 謝謝你們看到這裡！  
 祝福大家新婚愉快喔！🥰
