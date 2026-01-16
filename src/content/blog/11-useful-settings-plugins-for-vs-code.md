@@ -26,13 +26,11 @@ tags: vscode, vs-code, vscode-extensions
 
 ## 主題
 
-### **1.** [VS Code 色彩主題 Glacier Theme](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-glacier)
+### **1.** [**Glacier Theme**](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-glacier)
 
 ![VS Code 主題 Glacier Theme](../../assets/blogimages/blog/11-useful-settings-plugins-for-vs-code/1.png)
 
-對比度高，又不會刺眼，我滿喜歡的。
-
-後來才知道設計這個樣式的人—— [Daniel Imms](https://www.growingwiththeweb.com/)，就是 VSCode 的開發人員之一。
+對比度高，又不會刺眼，我滿喜歡的。後來才知道設計這個樣式的人—— [Daniel Imms](https://www.growingwiththeweb.com/)，就是 VSCode 的開發人員之一。
 
 ---
 
