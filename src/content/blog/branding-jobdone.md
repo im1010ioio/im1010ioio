@@ -5,8 +5,6 @@ pubDate: 2026-05-18
 tags: branding, jobdone, logodesign
 ---
 
-![Jobdone 品牌 LOGO 設計](../../assets/blogimages/blog/branding-jobdone/cover.png)
-
 ## 關於 Jobdone
 
 Jobdone Enterprise 是一個專注在解決工程現場與場域維運相關議題的雲端平台。從營建到設備維運，Jobdone 協助您跨組織的串連起產業的上下游流程。
