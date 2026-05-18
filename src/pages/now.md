@@ -2,7 +2,7 @@
 layout: '../layouts/BlogPostLayout.astro'
 title: '現況'
 description: '我最近的現況。這個頁面是依照 Derek Sivers 所推廣的 now 運動所建立的，用途就像是告訴一年沒見的朋友你最近在忙什麼。'
-pubDate: '2026-01-13'
+pubDate: '2026-05-18'
 slug: privacy
 coverImageCredit: ''
 ---
@@ -21,11 +21,15 @@ coverImageCredit: ''
 
 育有一女，雖然是假日父母，但是有這些 side project 所以還是很忙碌。
 
+## 💭 最近的想法
+
+在一直變動的時代，我反而想尋找的是那些不變的東西，那些不變的，都是核心。
+
 ## 💼 最近做的事
 
 - 今年的 365 天的秒速日記 Notion 模板也上架囉！
 - Super Easy CSS 終於快要完結啦！
-- 準備要規劃上海旅行
+- 剛從上海旅行回來囉！但是旅行時生病了一場病，回來後反省生活作息與工作平衡。
 
 ## 📺 最近娛樂
 
@@ -48,6 +52,7 @@ coverImageCredit: ''
 - 寶石之國
 - 葬送的芙莉蓮
 - 我推的孩子
+- 魔法帽的工作室
 
 ### 遊戲
 
@@ -56,4 +61,4 @@ coverImageCredit: ''
 
 ---
 
-最後更新時間：2026-04-02
+最後更新時間：2026-05-18

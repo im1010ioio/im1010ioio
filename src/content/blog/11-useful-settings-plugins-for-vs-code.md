@@ -1,19 +1,14 @@
 ---
-title: "11 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，外加 Mac Terminal 設定"
-seoTitle: "11 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，Mac Terminal 設定"
-description: "有時候看電腦很久，覺得眼睛看 code 花花的，
-這時候好的環境配置就很重要，顏色對比度適中，會比較好看 code，提升工作效率。
-
-今天跟大家分享幾個我試了後， 長期使用下來，
-我喜歡的主題、字體還有套件。"
+title: '11 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，外加 Mac Terminal 設定'
+seoTitle: '11 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，Mac Terminal 設定'
+description: '有時候看電腦很久，覺得眼睛看 code 花花的，這時候好的環境配置就很重要，顏色對比度適中，會比較好看 code，提升工作效率。今天跟大家分享幾個我試了後， 長期使用下來，我喜歡的主題、字體還有套件。'
 pubDate: Thu Apr 13 2023 07:10:43 GMT+0000 (Coordinated Universal Time)
 cuid: clges6y54000a09jsamxxhaeo
 slug: 11-useful-settings-plugins-for-vs-code
-coverImageCredit: ""
+coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693401698357/5bf3a9a8-8595-4ed4-b2a8-7ecb3de1c01d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683258489715/001352cb-b2bb-44de-8513-829fed67d166.webp
 tags: vscode, vs-code, vscode-extensions
-
 ---
 
 有時候看電腦很久，覺得眼睛看 code 花花的，  
