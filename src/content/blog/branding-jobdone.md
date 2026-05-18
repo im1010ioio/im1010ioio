@@ -2,7 +2,6 @@
 title: 'Jobdone 品牌 LOGO 與 VIS 視覺系統設計'
 description: '從營建到設備維運，Jobdone 協助您跨組織的串連起產業的上下游流程。這次的設計需求是因為產品需要進行重構，其核心概念從原本強調改善工地現場的溝通，進一步升級為「串連起溝通的斷點」。於是，在 Logo 設計上改變了打勾的方式，使用點與點連接起打勾符號，象徵溝通的串連。'
 pubDate: 2026-05-18
-coverImageCredit: ../../assets/blogimages/blog/branding-jobdone/cover.png
 tags: branding, jobdone, logodesign
 ---
 
