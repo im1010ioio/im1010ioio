@@ -1,2 +1,2 @@
 - [About Me]( http://im1010ioio.dev)
-- [CSS Tutorial: 超級簡單寫 CSS (Super Easy CSS)](https://css.im1010ioio.dev/)
+- [CSS Tutorial: Super Easy CSS，極度簡單](https://css.im1010ioio.dev/)
