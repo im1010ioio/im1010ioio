@@ -6,6 +6,7 @@ import partytown from '@astrojs/partytown'
 import icon from 'astro-icon'
 import rehypeFigureTitle from 'rehype-figure-title'
 import { rehypeAccessibleEmojis } from 'rehype-accessible-emojis'
+import rehypeExternalLinks from 'rehype-external-links'
 import { remarkReadingTime } from './src/plugins/remark-reading-time.mjs'
 import { remarkModifiedTime } from './src/plugins/remark-modified-time.mjs'
 
@@ -28,6 +29,10 @@ export default defineConfig({
 	},
 	markdown: {
 		remarkPlugins: [remarkReadingTime, remarkModifiedTime],
-		rehypePlugins: [rehypeFigureTitle, rehypeAccessibleEmojis],
+		rehypePlugins: [
+			rehypeFigureTitle,
+			rehypeAccessibleEmojis,
+			[rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }],
+		],
 	},
 })
