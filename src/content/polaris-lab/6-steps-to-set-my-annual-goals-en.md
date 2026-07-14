@@ -8,6 +8,7 @@ coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735279651553/c0e986c0-c3f6-49aa-817c-5de830cb5de4.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1735282164546/62eb5e81-0405-4c0b-b448-a91be9f21ff7.png
 tags: notion, notion-templates
+priority: 0.7
 ---
 
 This template helps you envision your future funeral to reverse-engineer your long-term outlook and goals, breaking them down into actionable tasks that can be accomplished within the year.

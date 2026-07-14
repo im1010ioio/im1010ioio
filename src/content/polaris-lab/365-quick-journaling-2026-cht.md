@@ -8,6 +8,7 @@ coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767782374687/5bfaf496-0263-467e-9535-126f4a66588c.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1767782746817/3fd3893f-1900-4fb1-a21e-a9983751e00f.png
 tags: notion, notion-templates, 2026
+priority: 0.8
 ---
 
 🌟 2026秒速日記在 Notion 其實已經上架一陣子啦！

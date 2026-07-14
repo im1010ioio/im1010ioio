@@ -9,6 +9,7 @@ coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764908390323/0a9d2eb1-fc2c-4e2f-8729-b0eb2235520e.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764908403386/27d178e4-40f4-40e5-b43b-58f52ddb1b6e.png
 tags: free, download, marriage
+priority: 0.8
 ---
 
 身為設計師，自己的結婚書約當然是自己做囉！但是因為當時很忙碌，所以以極簡、快速的方向進行設計。而且，我不喜歡繁複的設計，我想用簡單高雅的版面來記錄我們的這個時刻。

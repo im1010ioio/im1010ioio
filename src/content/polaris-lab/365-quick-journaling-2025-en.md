@@ -8,6 +8,7 @@ coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735898394935/9a40e48b-6131-4318-8c31-d4a8becf4add.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1735898412305/f406e956-56f7-4f58-ab82-90fd42136983.png
 tags: notion, notion-templates
+priority: 0.64
 ---
 
 Quickly capture daily moments by completing your diary with 0-1 sentences and logging your mood—perfect for a busy lifestyle! You can keep it simple or add detailed entries.

@@ -8,6 +8,7 @@ coverImageCredit: ''
 cover: 
 ogImage: 
 tags: notion, notion-templates
+priority: 0.8
 ---
 
 Quickly capture daily moments by completing your diary with 0-1 sentences and logging your mood—perfect for a busy lifestyle! You can keep it simple or add detailed entries.

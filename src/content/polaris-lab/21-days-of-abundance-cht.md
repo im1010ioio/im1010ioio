@@ -9,6 +9,7 @@ coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754533533001/cee482d0-a11c-4c83-8986-3a21b3c77e40.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1754533949670/d23523fb-1727-4555-88ee-553e8f341bbe.png
 tags: meditation, abundance
+priority: 0.8
 ---
 
 用 21 天，回到內在的富足與平靜。  

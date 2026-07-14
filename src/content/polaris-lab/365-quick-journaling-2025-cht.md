@@ -8,6 +8,7 @@ coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735889951222/b9ea5369-ce10-4406-898d-b0143f20866a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1735890610388/ff17a2ad-f8d8-4b27-bdf1-e74502743bec.png
 tags: notion, notion-templates
+priority: 0.64
 ---
 
 快速記錄每天的生活點滴，用 0-1 句話完成今日日記，並且記錄心情，適合忙碌生活！

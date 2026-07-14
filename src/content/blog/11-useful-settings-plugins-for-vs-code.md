@@ -9,6 +9,7 @@ coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693401698357/5bf3a9a8-8595-4ed4-b2a8-7ecb3de1c01d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683258489715/001352cb-b2bb-44de-8513-829fed67d166.webp
 tags: vscode, vs-code, vscode-extensions
+priority: 0.8
 ---
 
 有時候看電腦很久，覺得眼睛看 code 花花的，  

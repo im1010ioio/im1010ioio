@@ -9,6 +9,7 @@ coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692891871945/852985cc-f0d9-44af-9faf-92e9d1be310b.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1692891913984/22187f6a-b1d0-4bc2-b9a1-4ffd8a021cf7.png
 tags: ai, blogging, chatgpt, vuepress
+priority: 0.8
 ---
 
 由於 Xuite 部落格即將於本月月底關站，所以我幫忙我爸爸將部落格「[101上山走走](https://1013399.github.io/)」搬家。10 幾年、408 篇文章、400 萬瀏覽次數，隨著 Xuite 關閉，回憶就這樣不見的話，太可惜了。

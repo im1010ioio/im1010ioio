@@ -9,6 +9,7 @@ coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682397738499/6ce62bd3-ea47-406a-9714-0d8c6c436972.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682404432792/d618ff83-d314-4eef-bb5f-fd8ae73ad3c9.png
 tags: music, nature
+priority: 0.7
 ---
 
 午休的時候很累又睡不著怎麼辦？

@@ -14,6 +14,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681370761105/36a3d81
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681370800151/0a803d29-e551-48cf-b63f-c55518859301.png
 tags: music, lofi
 
+priority: 0.7
 ---
 
 如果你也喜歡邊聽 YouTube 上的 [lofi girl](https://www.youtube.com/live/jfKfPfyJRdk?feature=share) 邊工作，  

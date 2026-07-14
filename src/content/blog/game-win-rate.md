@@ -5,6 +5,7 @@ description: '這是一個簡單的遊戲勝率計算器，輸入您想要的勝
 pubDate: 2024-12-11 10:36:29
 coverImageCredit: ''
 tags:
+priority: 0.8
 ---
 
 這是一個簡單的遊戲勝率計算器，輸入您想要的勝率，就會告訴您需要再連續贏幾場。

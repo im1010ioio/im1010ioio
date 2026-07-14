@@ -4,6 +4,7 @@ description: '《致富心態》是摩根·豪瑟所著的一本書，探討了�
 pubDate: 2026-04-02
 slug: psychology-of-money
 tags: blog
+priority: 0.7
 ---
 
 《致富心態》是摩根·豪瑟所著的一本書，探討了金錢、財富與幸福之間的關係，並提供了培養正確財務觀念的指導。

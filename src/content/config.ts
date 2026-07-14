@@ -8,6 +8,7 @@ const blog = defineCollection({
 		pubDate: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),
 		coverImageCredit: z.string().optional(),
+		priority: z.number().optional(),
 	}),
 })
 
@@ -19,6 +20,7 @@ const polarisLabCollection = defineCollection({
 		pubDate: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),
 		coverImageCredit: z.string().optional(),
+		priority: z.number().optional(),
 	}),
 })
 

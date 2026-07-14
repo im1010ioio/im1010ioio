@@ -8,6 +8,7 @@ coverImageCredit: ''
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735281221799/7806c0a2-bec9-4cd7-9fe2-459fa23fbb95.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1735282257903/cfa4a145-53b8-4afc-bbf9-add56caf5f93.png
 tags: notion, notion-templates
+priority: 0.7
 ---
 
 這個範本（模板）透過想像未來的葬禮，回推出你的長期展望與目標，並且拆分出今年內可實現的任務。
