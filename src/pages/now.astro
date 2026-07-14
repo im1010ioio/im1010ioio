@@ -1,0 +1,21 @@
+---
+import { getEntry } from 'astro:content'
+import BlogPostLayout from '../layouts/BlogPostLayout.astro'
+
+const entry = await getEntry('now', 'now')
+if (!entry) {
+	return Astro.redirect('/404')
+}
+
+const { Content, headings, remarkPluginFrontmatter } = await entry.render()
+---
+
+<BlogPostLayout
+	{...entry.data}
+	headings={headings}
+	slug="now"
+	collection="now"
+	remarkPluginFrontmatter={remarkPluginFrontmatter}
+>
+	<Content />
+</BlogPostLayout>

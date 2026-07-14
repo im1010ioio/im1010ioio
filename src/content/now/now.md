@@ -1,9 +1,7 @@
 ---
-layout: '../layouts/BlogPostLayout.astro'
 title: '現況'
 description: '我最近的現況。這個頁面是依照 Derek Sivers 所推廣的 now 運動所建立的，用途就像是告訴一年沒見的朋友你最近在忙什麼。'
 pubDate: '2026-05-18'
-slug: privacy
 coverImageCredit: ''
 ---
 
@@ -62,6 +60,3 @@ coverImageCredit: ''
 - 無限暖暖
 - Pikmin Bloom
 
----
-
-最後更新時間：2026-07-14

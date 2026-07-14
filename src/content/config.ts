@@ -21,4 +21,14 @@ const polarisLabCollection = defineCollection({
 		coverImageCredit: z.string().optional(),
 	}),
 })
-export const collections = { blog, 'polaris-lab': polarisLabCollection }
+
+const nowCollection = defineCollection({
+	schema: z.object({
+		title: z.string(),
+		description: z.string(),
+		pubDate: z.coerce.date(),
+		coverImageCredit: z.string().optional(),
+	}),
+})
+
+export const collections = { blog, 'polaris-lab': polarisLabCollection, now: nowCollection }
