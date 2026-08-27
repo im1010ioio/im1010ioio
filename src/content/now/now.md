@@ -7,7 +7,7 @@ coverImageCredit: ''
 
 # 現況
 
-這個頁面是依照 [Derek Sivers 所推廣的 now 運動](https://nownownow.com/about) 所建立的，用途就像是告訴一年沒見的朋友你最近在忙什麼。
+這個頁面是依照 [Derek Sivers 所推廣的 now 運動](https://nownownow.com/about) 所建立的，用途就像是告訴一年沒見的朋友你最近在忙什麼。我打算在一年內持續更新這一頁，每年年初清空重置一次，過往紀錄未來可查看[版空紀錄](https://github.com/im1010ioio/im1010ioio/commits/main/src/content/now/now.md)。
 
 ## 📍 居住
 
@@ -25,6 +25,11 @@ coverImageCredit: ''
 在一直變動的時代，我反而想尋找的是那些不變的東西，那些不變的，都是核心。
 最近發現自己是設計總監（？），要改變許多做事的態度。
 
+確立了我的設計理念：
+
+- 降低設計師的創作者印記，讓設計依據系統產生自己的樣貌
+- 形式即是內容
+
 ## 💼 最近做的事
 
 - 今年的 365 天的秒速日記 Notion 模板也上架囉！
@@ -33,6 +38,9 @@ coverImageCredit: ''
 - 買了麥克風，試著錄音講故事給小孩，很有趣！
 - [Super Easy CSS 部落格](https://css.im1010ioio.dev/) 終於加上主視覺等等的細節啦！並且，將太長的文章拆分開來，最後變成 105 篇教學文章了。
 - 研究策略性溝通
+- 開始看多摩美術大學推出 [多摩設計大學免費課程](https://www.youtube.com/@tubtamaartuniversitytub3703) （下載逐字稿後，用 AI 翻譯並做重點筆記），居然還拿到了 [學生證](https://tub.tamabi.ac.jp/tdu/admission/) （他們鼓勵大眾學習設計知識，所以只要填寫表單就有），真有趣！
+  ![多摩設計大學 學生證](../../assets/blogimages/tdu-student-id.png)
+- 開始使用 Obsidian 整理自己的 Markdown 筆記
 
 ## 📺 最近娛樂
 
@@ -48,10 +56,13 @@ coverImageCredit: ''
 - ~張愛玲譯作選二：老人與海．鹿苑長春 (2026/07/03 放棄)~
 - ~納瓦爾寶典 (2026/07/09 放棄)~
 - 挺身而進
+- 快速致富
+- 失控的焦慮世代
 
 ### 戲劇
 
 - 繁花
+- 百年孤寂
 
 ### 動漫
 
