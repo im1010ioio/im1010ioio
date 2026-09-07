@@ -42,6 +42,8 @@ coverImageCredit: ''
 - 開始看多摩美術大學推出 [多摩設計大學免費課程](https://www.youtube.com/@tubtamaartuniversitytub3703) （下載逐字稿後，用 AI 翻譯並做重點筆記），居然還拿到了 [學生證](https://tub.tamabi.ac.jp/tdu/admission/) （他們鼓勵大眾學習設計知識，所以只要填寫表單就有），真有趣！
   ![多摩設計大學 學生證](../../assets/blogimages/tdu-student-id.png)
 - 開始使用 Obsidian 整理自己的 Markdown 筆記
+- 開始使用 [gogh: Focus with Your Avatar (Steam)](https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/) 的蕃茄鐘輔助工作，歡迎和我一起開房間：Coworking Loft (房間 ID：`A7TBJ0NDA505`)
+    ![Coworking Loft at gogh: Focus with Your Avatar](../../assets/blogimages/coworking-loft.jpeg)
 
 ## 📺 最近娛樂
 
@@ -82,3 +84,4 @@ coverImageCredit: ''
 - ~Pikmin Bloom~
 - Just Dance
 - 瑪利歐賽車
+- gogh: Focus with Your Avatar
