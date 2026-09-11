@@ -61,6 +61,7 @@ coverImageCredit: ''
 - 挺身而進
 - 快速致富 (2026/08/28)
 - 失控的焦慮世代 (2026/09/10)
+- [Product Design Psychology](https://productdesignpsychology.com/)
 
 ### 戲劇
 
