@@ -43,7 +43,8 @@ coverImageCredit: ''
   ![多摩設計大學 學生證](../../assets/blogimages/tdu-student-id.png)
 - 開始使用 Obsidian 整理自己的 Markdown 筆記
 - 開始使用 [gogh: Focus with Your Avatar (Steam)](https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/) 的蕃茄鐘輔助工作，歡迎和我一起開房間：Coworking Loft (房間 ID：`A7TBJ0NDA505`)
-    ![Coworking Loft at gogh: Focus with Your Avatar](../../assets/blogimages/coworking-loft.jpeg)
+  ![Coworking Loft at gogh: Focus with Your Avatar](../../assets/blogimages/coworking-loft.jpeg)
+- 我用 AI 幫忙做了家鄉鐵路的班次查詢小工具「[內灣線轉乘攻略](https://neiwan-line.im1010ioio.dev/)」！之後再寫詳細文章介紹。
 
 ## 📺 最近娛樂
 
