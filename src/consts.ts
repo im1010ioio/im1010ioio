@@ -3,7 +3,7 @@
 
 export const SITE_TITLE = '陳依琳 YI-LIN CHEN'
 export const SITE_DESCRIPTION =
-	'前端工程師 / Notion 創作者 / 設計總監 @HealthyPlate 擁有 10 年數位設計與網頁前端開發的跨領域經驗，具備全端整合的視野。 可獨立完成視覺、介面設計至前端 HTML、CSS 切版，與部分 JS 程式撰寫。 善於轉換抽象概念於具體，將概念使用視覺化方式呈現，使人易於理解。'
+	'設計總監 & 前端 @HealthyPlate / Notion 創作 @PolarisLab - 長期工作在設計與前端開發的交界，把複雜的事情整理清楚，透過設計、程式與內容，讓要傳遞的事物變得容易理解、使用與感受。擁有 10 年以上數位產品設計與網頁前端開發經驗，工作範圍從品牌視覺、UI/UX 延伸至 Web Frontend。'
 
 // If you deploy to a subdirectory, set the `WEBSITE_BASE` here.
 // e.g. '/blog' if you are deploying to example.com/blog
